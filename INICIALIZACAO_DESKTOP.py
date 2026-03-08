@@ -9,6 +9,7 @@ from selenium.webdriver.edge.options import Options
 from selenium.webdriver.support.ui import Select
 import time
 
+#teste primeiro branch
 
 while pyautogui.onScreen(True):
             time.sleep(5)
